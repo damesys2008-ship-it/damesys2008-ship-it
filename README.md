@@ -103,7 +103,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samir-mama-5b8b14402"><img src="https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" /></a>
-  <a href="mailto:damesys2008@gmail.com"><img src="https://img.shields.io/badge/Email-0B0B0F?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" /></a>
+  <a href="mailto:samirmama.work@gmail.com"><img src="https://img.shields.io/badge/Email-0B0B0F?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" /></a>
 </p>
 
 ---
