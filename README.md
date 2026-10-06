@@ -30,15 +30,18 @@
 ## Compétences
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,bash,windows&theme=dark" alt="Python, PHP, JavaScript, Bash, Windows" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,bash,linux,windows&theme=dark" alt="Python, PHP, JavaScript, HTML, CSS, Bash, Linux, Windows" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0B0B0F?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-0B0B0F?style=for-the-badge&logo=php&logoColor=D4AF37" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-0B0B0F?style=for-the-badge&logo=javascript&logoColor=D4AF37" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-0B0B0F?style=for-the-badge&logo=html5&logoColor=D4AF37" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-0B0B0F?style=for-the-badge&logo=css&logoColor=D4AF37" alt="CSS" />
   <img src="https://img.shields.io/badge/SQL-0B0B0F?style=for-the-badge&logo=sqlite&logoColor=D4AF37" alt="SQL" />
   <img src="https://img.shields.io/badge/Bash-0B0B0F?style=for-the-badge&logo=gnubash&logoColor=D4AF37" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-0B0B0F?style=for-the-badge&logo=linux&logoColor=D4AF37" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-0B0B0F?style=for-the-badge&logo=windows&logoColor=D4AF37" alt="Windows" />
   <img src="https://img.shields.io/badge/VirtualBox-0B0B0F?style=for-the-badge&logo=virtualbox&logoColor=D4AF37" alt="VirtualBox" />
 </p>
@@ -96,6 +99,23 @@
     </td>
   </tr>
 </table>
+
+---
+
+## Statistiques GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=damesys2008-ship-it&show_icons=true&include_all_commits=true&custom_title=Activit%C3%A9%20GitHub&bg_color=0B0B0F&title_color=D4AF37&text_color=F5F1E6&icon_color=D4AF37&border_color=3D3214&border_radius=10&locale=fr" alt="Statistiques GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damesys2008-ship-it&layout=compact&langs_count=6&custom_title=Langages%20les%20plus%20utilis%C3%A9s&bg_color=0B0B0F&title_color=D4AF37&text_color=F5F1E6&icon_color=D4AF37&border_color=3D3214&border_radius=10&locale=fr" alt="Langages les plus utilisés" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=damesys2008-ship-it&locale=fr&background=0B0B0F&border=3D3214&border_radius=10&stroke=3D3214&ring=D4AF37&fire=D4AF37&currStreakNum=F5F1E6&sideNums=F5F1E6&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=A39A80" alt="Série de contributions" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=damesys2008-ship-it&bg_color=0B0B0F&color=F5F1E6&title_color=D4AF37&line=D4AF37&point=F5F1E6&area=true&area_color=D4AF37&radius=10&hide_border=true&custom_title=Contributions%20des%2031%20derniers%20jours" alt="Graphique des contributions" />
+</p>
 
 ---
 
